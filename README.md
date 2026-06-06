@@ -19,12 +19,12 @@ Ce dossier contient le corrigé complet des trois exercices avec code Python ex�
 
 ## 📊 Résumé des exercices
 
-### **Exercice 1 : QCM (20 pts)**
+### **Exercice 1 : 
 - 10 questions à choix multiples sur l'apprentissage automatique
 - Réponses : Analyse en Composantes Principales, supervié/non-supervisé/renforcement, Classification, etc.
 - Voir `Corrige_Exercices.docx`
 
-### **Exercice 2 : Régression linéaire (20 pts)**
+### **Exercice 2 : Régression linéaire 
 
 **Partie A — Cas de l'hôpital**
 - Problématique : Patients qui quittent les urgences sans consultation (LWBS)
@@ -42,7 +42,7 @@ Ce dossier contient le corrigé complet des trois exercices avec code Python ex�
 
 → **Notebook détaillé** : `Exercice2_Regression_Detaille.ipynb`
 
-### **Exercice 3 : Arbre de décision (30 pts)**
+### **Exercice 3 : Arbre de décision **
 
 **Q3.1 — Modèle d'arbre**
 - Données : 8 observations (AgeRange, Occupation, Gender → Happy)
